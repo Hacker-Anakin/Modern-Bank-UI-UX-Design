@@ -2,7 +2,7 @@
 
 Welcome to **Modern Bank**, an innovative banking solution that redefines how you interact with your finances. This repository contains the source code for the Modern Bank website, developed using React with Vite and styled with Tailwind CSS.
 
-![alt text]([https://i.imgur.com/4JfNI7H.png](https://i.imgur.com/ARDn6vK_d.webp?maxwidth=760&fidelity=grand])
+![alt text]([https://imgur.com/a/biCgvMU])
 
 ## Table of Contents
 
